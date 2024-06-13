@@ -1,0 +1,22 @@
+/* src/components/Button/Button.module.css */
+.button,
+.btn {
+  background-color: #fff;
+  border: 2px solid #202020;
+  border-radius: 4px;
+  color: #202020;
+  cursor: pointer;
+  padding: .75rem 1.5rem;
+}
+
+.primary {
+  background-color: #0a44c2;
+  border-color: #0a44c2;
+  color: #fff;
+}
+
+.kill {
+  background-color: #d70101;
+  border-color: #d70101;
+  color: #fff;
+}
