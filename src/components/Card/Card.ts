@@ -1,4 +1,4 @@
-import styles from './Card.module.css';
+import * as styles from './Card.module.css';
 
 export class Card {
     element: HTMLElement;
